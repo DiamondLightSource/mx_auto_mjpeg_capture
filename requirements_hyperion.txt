@@ -1,0 +1,2 @@
+pip install git+https://github.com/DiamondLightSource/hyperion.git@main
+pip install ophyd-async==0.3a3
